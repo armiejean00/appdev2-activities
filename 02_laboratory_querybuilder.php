@@ -2,7 +2,7 @@
 # SQL Syntax
 SELECT * FROM students;
 Your query builder syntax
- DB::select('select * from students');
+DB::table('students')->get();
 
 # Task#2
 # SQL Syntax
