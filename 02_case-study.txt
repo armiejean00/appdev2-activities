@@ -1,0 +1,13 @@
+Case Study #2
+
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+Actually po, we have experienced this before in developing our hotdesk booking system in another subject. There were incomplete tasks, unresolved bugs, and a delayed testing process. As a team, we didn't have much idea on how to do the project so we encountered a lot of problems, especially in development. I think the main problems were a lack of knowledge and communication. Another problem was that we didn't inform the client about our progress, so when the presentation came, we failed to present the expected outcome. It was not functional but instead just a static project.
+
+For this case study, as a software engineer involved in this project, a significant issue we are facing is the presence of incomplete tasks and unresolved bugs. To address this, our team should establish clear milestones and deliverables, such as completing the user interface design for example in  the hotdesk booking system by the end of February. Additionally, we need to improve progress tracking and implement iterative feedback loops. Adopting agile practices or Kanban can help us address this issue by incorporating ceremonies like daily stand-up meetings to update each other on our progress and ensure effective communication within the team.
+
+Furthermore, we need to enhance collaboration among developers, testers, and other stakeholders. For instance, involving a UX designer in the development process can help ensure the hotdesk booking system is user-friendly. In terms of unresolved bugs, we need to prioritize risk management by identifying potential risks early on and devising solutions to mitigate them.
+
+Another area that requires improvement is the lack of testing, which is essential for ensuring product quality. We should prioritize testing by incorporating it into our workflow or dedicating specific sprints to focus on testing and bug fixing. 
